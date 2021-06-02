@@ -1,0 +1,13 @@
+Soal Test
+
+4. Buatlah aplikasi web sederhana dengan menggunakan django framework dimana aplikasi tersebut bisa menyimpan dan menampilkan berapa kali halaman tersebut sudah di lihat.
+   ANS : FOLDER 4
+   -cd 4/hitscounter
+   -python manage.py runserver
+
+5. Buat program untuk konversi video .mp4 menjadi format .hls
+   ANS : 5.py
+   # make sure ffmpeg-python installed
+   # make sure ffmpeg/bin is already set inside the path variable
+
+Jawab test diatas dengan menggunakan bahasa pemrograman python. Script jawaban dikumpulkan dalam satu repositori github!
